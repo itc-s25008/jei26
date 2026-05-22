@@ -1,4 +1,4 @@
-package src.d48;
+package d48;
 
 enum Connection {OFFLINE, ONLINE}
 

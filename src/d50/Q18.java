@@ -4,7 +4,7 @@ public class Q18 {
     static void main(String[] args) {
         int num = 6;
         while (--num > 0){
-            System.out.print(num);
+            System.out.println(num);
         }
     }
 }

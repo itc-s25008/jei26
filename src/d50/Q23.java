@@ -11,4 +11,10 @@ public class Q23 {
         code = c;
         System.out.println(c);
     }
+    /*
+    System.out.println(obj.getCode());
+    String getCode(){
+        retutn code;
+    }
+     */
 }

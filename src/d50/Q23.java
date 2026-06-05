@@ -4,7 +4,7 @@ public class Q23 {
     String code;
     static void main(String[] args) {
         Q23 obj = new Q23();
-        obj.setCode("code");
+        obj.setCode("Code");
 
     }
     void setCode(String c){

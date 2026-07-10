@@ -3,11 +3,8 @@ package d52;
 public class Q2Ensyu {
     public static void main(String[] args) {
         Cooker cooker = new Cooker();
-
         System.out.println(cooker.getCooking1().getName());
-
     }
-
 }
 class Cooking {
     private String name;
